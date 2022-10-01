@@ -1,0 +1,27 @@
+.UserPreview {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(202, 183, 183);
+    border-width: thick;
+    padding: 10px;
+  }
+
+.UserPreview:hover {
+    border-color: rgb(196, 209, 122);
+}
+
+.Title {
+    margin-bottom: 0px;
+}
+
+.PostContainer {
+    color: rgb(54, 41, 35);
+    flex-direction: column;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+}
